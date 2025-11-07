@@ -267,7 +267,6 @@ button:hover {
 
 
 
-/* ===== Location Section ===== */
 .location-section {
   background-color: #fff9f2;
   padding: 50px 20px;
@@ -341,7 +340,6 @@ button:hover {
   border-radius: 10px;
 }
 
-/* Responsive layout for mobile */
 @media (max-width: 768px) {
   .location-container {
     flex-direction: column;
@@ -355,7 +353,6 @@ button:hover {
 
 
 
-/* ===== Contact Section ===== */
 .contact-section {
   background-color: #fff9f2;
   padding: 60px 20px;
@@ -378,7 +375,7 @@ button:hover {
   margin: 0 auto;
 }
 
-/* Contact Info */
+
 .contact-info {
   flex: 1 1 300px;
   background-color: #3b1f0e;
@@ -411,7 +408,6 @@ button:hover {
   text-decoration: underline;
 }
 
-/* Contact Form */
 .contact-form {
   flex: 1 1 400px;
   display: flex;
@@ -454,7 +450,6 @@ button:hover {
   background-color: #ad0020;
 }
 
-/* Responsive Layout */
 @media (max-width: 768px) {
   .contact-container {
     flex-direction: column;
